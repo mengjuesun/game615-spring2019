@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8cd65915bf56e2d46a4c7baed850e19f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chasing Hearts
+  fontNames:
+  - Chasing Hearts
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 526bc48cbc44903408a14e086e5c39a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
